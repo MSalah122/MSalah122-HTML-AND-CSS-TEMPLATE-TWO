@@ -200,7 +200,7 @@ body {
 /* End Header */
 /* Start Landing */
 .landing {
-    background-image: url("/image/landin.jpg");
+    background-image: url("../image/landin.jpg");
     background-color: black;
     background-size: cover;
     min-height: 100vh;
